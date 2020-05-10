@@ -11,10 +11,10 @@ Items shown in the training set and test set consist of video games, game consol
 Similary, item_category or shop names also contain information and can be decomposed to extract features.
 
 Items in the test set can be divided into three different types. 
-Category 1: Item and shop has sale history.
-Category 2: Item has sale history but not for a specific shop.
-Category 3: New items only showing up in the test set.
-They key is to find the best way to Model items in each category.
+* Category 1: Item and shop has sale history.
+* Category 2: Item has sale history but not for a specific shop.
+* Category 3: New items only showing up in the test set.
+* They key is to find the best way to Model items in each category.
 
 # Data Preparation
 
