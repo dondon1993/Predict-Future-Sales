@@ -1,1 +1,0 @@
-Put train, test, item, item_category, shop and sample_submission data in this folder
